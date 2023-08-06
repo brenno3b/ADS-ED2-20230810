@@ -10,7 +10,7 @@ namespace ADS_ED2_20230810.Controllers
 {
     internal class VendedoresController
     {
-        private static readonly int _max = 2;
+        private static readonly int _max = 10;
 
         private VendedorController[] _osVendedores;
         private int _qtde;
